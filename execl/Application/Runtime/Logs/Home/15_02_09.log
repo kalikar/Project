@@ -1,0 +1,160 @@
+[ 2015-02-09T16:40:18+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012000s ]
+ERR: 2:[Microsoft][SQL Server Native Client 11.0]命名管道提供程序: 无法打开与 SQL Server 的连接 [2]. 0:[Microsoft][SQL Server Native Client 11.0]登录超时已过期2:[Microsoft][SQL Server Native Client 11.0]与 SQL Server 建立连接时发生了与网络相关的或特定于实例的错误。找不到或无法访问服务器。请检查实例名称是否正确以及 SQL Server 是否配置为允许远程连接。有关详细信息，请参阅 SQL Server 联机丛书。
+
+[ 2015-02-09T16:43:55+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 10061:[Microsoft][SQL Server Native Client 11.0]TCP 提供程序: 由于目标计算机积极拒绝，无法连接。
+0:[Microsoft][SQL Server Native Client 11.0]登录超时已过期10061:[Microsoft][SQL Server Native Client 11.0]与 SQL Server 建立连接时发生了与网络相关的或特定于实例的错误。找不到或无法访问服务器。请检查实例名称是否正确以及 SQL Server 是否配置为允许远程连接。有关详细信息，请参阅 SQL Server 联机丛书。
+
+[ 2015-02-09T16:46:45+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 系统不支持:mssql
+
+[ 2015-02-09T16:56:37+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 10061:[Microsoft][SQL Server Native Client 11.0]TCP 提供程序: 由于目标计算机积极拒绝，无法连接。
+0:[Microsoft][SQL Server Native Client 11.0]登录超时已过期10061:[Microsoft][SQL Server Native Client 11.0]与 SQL Server 建立连接时发生了与网络相关的或特定于实例的错误。找不到或无法访问服务器。请检查实例名称是否正确以及 SQL Server 是否配置为允许远程连接。有关详细信息，请参阅 SQL Server 联机丛书。
+
+[ 2015-02-09T16:59:14+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 10061:[Microsoft][SQL Server Native Client 11.0]TCP 提供程序: 由于目标计算机积极拒绝，无法连接。
+0:[Microsoft][SQL Server Native Client 11.0]登录超时已过期10061:[Microsoft][SQL Server Native Client 11.0]与 SQL Server 建立连接时发生了与网络相关的或特定于实例的错误。找不到或无法访问服务器。请检查实例名称是否正确以及 SQL Server 是否配置为允许远程连接。有关详细信息，请参阅 SQL Server 联机丛书。
+
+[ 2015-02-09T17:00:06+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+ERR: 10061:[Microsoft][SQL Server Native Client 11.0]TCP 提供程序: 由于目标计算机积极拒绝，无法连接。
+0:[Microsoft][SQL Server Native Client 11.0]登录超时已过期10061:[Microsoft][SQL Server Native Client 11.0]与 SQL Server 建立连接时发生了与网络相关的或特定于实例的错误。找不到或无法访问服务器。请检查实例名称是否正确以及 SQL Server 是否配置为允许远程连接。有关详细信息，请参阅 SQL Server 联机丛书。
+
+[ 2015-02-09T17:05:27+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+ERR: 10061:[Microsoft][SQL Server Native Client 11.0]TCP 提供程序: 由于目标计算机积极拒绝，无法连接。
+0:[Microsoft][SQL Server Native Client 11.0]登录超时已过期10061:[Microsoft][SQL Server Native Client 11.0]与 SQL Server 建立连接时发生了与网络相关的或特定于实例的错误。找不到或无法访问服务器。请检查实例名称是否正确以及 SQL Server 是否配置为允许远程连接。有关详细信息，请参阅 SQL Server 联机丛书。
+
+[ 2015-02-09T17:12:43+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+ERR: 10061:[Microsoft][SQL Server Native Client 11.0]TCP 提供程序: 由于目标计算机积极拒绝，无法连接。
+0:[Microsoft][SQL Server Native Client 11.0]登录超时已过期10061:[Microsoft][SQL Server Native Client 11.0]与 SQL Server 建立连接时发生了与网络相关的或特定于实例的错误。找不到或无法访问服务器。请检查实例名称是否正确以及 SQL Server 是否配置为允许远程连接。有关详细信息，请参阅 SQL Server 联机丛书。
+
+[ 2015-02-09T17:22:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: 
+            SELECT column_name,data_type,column_default,is_nullable
+            FROM   information_schema.tables AS t
+            JOIN   information_schema.columns AS c
+            ON     t.table_catalog = c.table_catalog
+            AND    t.table_schema  = c.table_schema
+            AND    t.table_name    = c.table_name
+            WHERE  t.table_name = 'dbo.card' [ RunTime:0.502029s ]
+SQL: SELECT * FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE WHERE TABLE_NAME='dbo.card' [ RunTime:0.241013s ]
+SQL: SELECT T1.* FROM (SELECT thinkphp.*, ROW_NUMBER() OVER ( ORDER BY rand()) AS ROW_NUMBER FROM (SELECT  * FROM dbo.card) AS thinkphp) AS T1  [ RunTime:0.015000s ]
+
+[ 2015-02-09T17:23:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: 
+            SELECT column_name,data_type,column_default,is_nullable
+            FROM   information_schema.tables AS t
+            JOIN   information_schema.columns AS c
+            ON     t.table_catalog = c.table_catalog
+            AND    t.table_schema  = c.table_schema
+            AND    t.table_name    = c.table_name
+            WHERE  t.table_name = 'dbo.card' [ RunTime:0.290016s ]
+SQL: SELECT * FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE WHERE TABLE_NAME='dbo.card' [ RunTime:0.012001s ]
+SQL: SELECT T1.* FROM (SELECT thinkphp.*, ROW_NUMBER() OVER ( ORDER BY rand()) AS ROW_NUMBER FROM (SELECT  * FROM dbo.card) AS thinkphp) AS T1  [ RunTime:0.005000s ]
+
+[ 2015-02-09T17:24:04+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 10061:[Microsoft][SQL Server Native Client 11.0]TCP 提供程序: 由于目标计算机积极拒绝，无法连接。
+0:[Microsoft][SQL Server Native Client 11.0]登录超时已过期10061:[Microsoft][SQL Server Native Client 11.0]与 SQL Server 建立连接时发生了与网络相关的或特定于实例的错误。找不到或无法访问服务器。请检查实例名称是否正确以及 SQL Server 是否配置为允许远程连接。有关详细信息，请参阅 SQL Server 联机丛书。
+
+[ 2015-02-09T17:24:22+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: 
+            SELECT column_name,data_type,column_default,is_nullable
+            FROM   information_schema.tables AS t
+            JOIN   information_schema.columns AS c
+            ON     t.table_catalog = c.table_catalog
+            AND    t.table_schema  = c.table_schema
+            AND    t.table_name    = c.table_name
+            WHERE  t.table_name = 'dbo.card' [ RunTime:0.001000s ]
+SQL: SELECT * FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE WHERE TABLE_NAME='dbo.card' [ RunTime:0.006001s ]
+SQL: SELECT T1.* FROM (SELECT thinkphp.*, ROW_NUMBER() OVER ( ORDER BY rand()) AS ROW_NUMBER FROM (SELECT  * FROM dbo.card) AS thinkphp) AS T1  [ RunTime:0.008000s ]
+
+[ 2015-02-09T17:34:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: 
+            SELECT column_name,data_type,column_default,is_nullable
+            FROM   information_schema.tables AS t
+            JOIN   information_schema.columns AS c
+            ON     t.table_catalog = c.table_catalog
+            AND    t.table_schema  = c.table_schema
+            AND    t.table_name    = c.table_name
+            WHERE  t.table_name = 'dbo.card' [ RunTime:0.002000s ]
+SQL: SELECT * FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE WHERE TABLE_NAME='dbo.card' [ RunTime:0.011001s ]
+SQL: SELECT T1.* FROM (SELECT thinkphp.*, ROW_NUMBER() OVER ( ORDER BY rand()) AS ROW_NUMBER FROM (SELECT  [CardNo] FROM dbo.card) AS thinkphp) AS T1  [ RunTime:0.012001s ]
+
